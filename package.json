@@ -6,6 +6,7 @@
   "main": "main.js",
 "build": {
   "appId": "com.electron.my-app",
+"productName":"nome-aplicacao",
 "win": {
     }
 },
